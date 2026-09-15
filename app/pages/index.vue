@@ -12,7 +12,7 @@ useSeoMeta({
 
   ogType: "website",
 
-  ogImage: "/og-image.jpg",
+  ogImage: "public/images/social/syed-ali-og.jpg",
 
   twitterCard: "summary_large_image",
 
